@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[<div class="tenor-gif-embed" data-postid="25414590" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/joy-gif-25414590">Joy GIF</a>](https://tenor.com/view/joy-gif-25414590)
+
+![coding](https://github.com/Dharm2412/Dharm2412/assets/142787486/0be5b702-579d-4726-a2b7-2278f11be1e4)
 
 
 # 💫 About Me:
