@@ -3,6 +3,7 @@
 I am Dharm Patel
 
 
+![coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtNmFiczJmc2ExOGlkMGp6OGhhZzB4bG5wM2c5cDE0NXlob3VxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif)
 
 
 # 💫 About Me:
