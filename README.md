@@ -7,7 +7,7 @@ I am Dharm Patel
 
 
 # 💫 About Me:
-.🌱 I’m currently learning Cyber security<br>.👯 I’m looking to collaborate on Frontend project<br>.💬 Ask me about : Space & Tech.<br>.⚡ get in touch with me : dharmpatel24123@gmail.com
+.🌱 I’m currently learning Cyber security<br>.👯 I’m looking to collaborate on  project<br>.💬 Ask me about : Space & Tech.<br>.⚡ get in touch with me : dharmpatel24123@gmail.com
 
 
 ## 🌐 Socials:
