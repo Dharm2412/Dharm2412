@@ -64,7 +64,7 @@
 
 <div align="center">
   <h3>Let's Innovate Together 🌐</h3>
-  <a href="[https://linkedin.com/in/Dharm patel](https://www.linkedin.com/in/dharmpatel2412/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dharmpatel2412/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:dharmpatel24123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <br><br>
   <img src="https://visitcount.itsvg.in/api?id=Dharm2412&icon=0&color=0" alt="Views"/>
